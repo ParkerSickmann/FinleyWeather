@@ -97,7 +97,4 @@ Check your repo for the correct filename (`main.py`, `app.py`, etc.).
   ```
 
 * If libraries fail to install, check `requirements.txt` and install them one at a time.
-
----
-
-Do you want me to go ahead and **customize this README with the exact entry script name and dependencies** from your repo, so it’s fully ready to drop into GitHub?
+              
