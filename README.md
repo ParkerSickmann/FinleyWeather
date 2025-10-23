@@ -72,9 +72,24 @@ If `requirements.txt` is missing, install libraries individually (for example):
 pip install requests
 ```
 
+--- 
+## 5. Update Variables
+
+```
+input_csv = "input.csv"
+station = "USC00211630"  # Finley, WA station ID
+```
+Map of weather stations avaible [here](https://www.arcgis.com/apps/mapviewer/index.html?webmap=d4fb04e6b89c4a4c958efd9b3b8c092d)
+
+Find the station you want to use
+
+Go to the station ID variable, and copy the second part: GHCND:`USC00211630`
+
+Replace station variable with the station ID you want to use 
+
 ---
 
-## 5. Run the Project
+## 6. Run the Project
 
 Once dependencies are installed, run the main script. For example, if the entry file is `main.py`:
 
@@ -86,7 +101,7 @@ Check your repo for the correct filename (`main.py`, `app.py`, etc.).
 
 ---
 
-## 6. Troubleshooting
+## 7. Troubleshooting
 
 * If `python` isn’t recognized, log out and back in, or reinstall ensuring **“Add to PATH”** was checked.
 
