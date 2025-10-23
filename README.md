@@ -24,7 +24,7 @@ Both should return version numbers.
 
 ---
 
-## 2. Install Visual Studio Code (optional but recommended)
+## 2. Install Visual Studio Code
 
 1. Download VS Code: [https://code.visualstudio.com/](https://code.visualstudio.com/)
 2. Install with default options (you can check “Add to PATH” and “Open with Code” if offered).
