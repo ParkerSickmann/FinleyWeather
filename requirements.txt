@@ -2,4 +2,8 @@ os
 csv
 time
 datetime
+<<<<<<< HEAD
 request
+=======
+request
+>>>>>>> 32b7ec7 (Updated def process_csv_and_fetch_weather, to math csv_row)
